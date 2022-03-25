@@ -8,3 +8,4 @@ BLIND 75
 3. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 4. [Valid Anagrams](https://leetcode.com/problems/valid-anagram/)
 5. [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)
+6. [Counting Bits](https://leetcode.com/problems/counting-bits/)
