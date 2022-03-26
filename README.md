@@ -1,6 +1,7 @@
 # leetcode-solutions-in-cpp
 Solution to Leetcode problems in C++
 
+----------------------------------------------------------------------------------------------------------------------------------
 BLIND 75 
 ----------------------------------------------------------------------------------------------------------------------------------
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -10,3 +11,8 @@ BLIND 75
 5. [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)
 6. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 7. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+MARCH LEETCODE CHALLENGE
+---------------------------------------------------------------------------------------------------------------------------------------
+1.[Day 26- Binary Search](https://leetcode.com/problems/binary-search/)
