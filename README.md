@@ -12,6 +12,7 @@ BLIND 75
 6. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 7. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 8. [Missing Number](https://leetcode.com/problems/missing-number/)
+9. [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 MARCH LEETCODE CHALLENGE
