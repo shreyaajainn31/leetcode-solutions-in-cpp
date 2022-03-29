@@ -11,6 +11,7 @@ BLIND 75
 5. [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)
 6. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 7. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+8. [Missing Number](https://leetcode.com/problems/missing-number/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 MARCH LEETCODE CHALLENGE
