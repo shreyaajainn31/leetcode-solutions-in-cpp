@@ -21,7 +21,6 @@ The number of nodes in the tree is n.
 Follow up: If the BST is modified often (i.e., we can do insert and delete operations) and you need to find the kth smallest frequently, how would you optimize?
 */
 
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -33,6 +32,7 @@ Follow up: If the BST is modified often (i.e., we can do insert and delete opera
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
     
