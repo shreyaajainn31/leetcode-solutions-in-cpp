@@ -21,4 +21,10 @@ MARCH LEETCODE CHALLENGE
 
 2.[Day 29- Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-3. [Day 31- reverse string](https://leetcode.com/problems/reverse-string/)
+---------------------------------------------------------------------------------------------------------------------------------------
+APRIL LEETCODE CHALLENGE
+---------------------------------------------------------------------------------------------------------------------------------------
+
+1. [Day 1 - reverse string](https://leetcode.com/problems/reverse-string/)
+2. [Day 2 - Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)
+3. 
