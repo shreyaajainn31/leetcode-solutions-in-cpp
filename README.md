@@ -27,4 +27,4 @@ APRIL LEETCODE CHALLENGE
 
 1. [Day 1 - reverse string](https://leetcode.com/problems/reverse-string/)
 2. [Day 2 - Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii/)
-3. 
+3. [Day 7 - Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
