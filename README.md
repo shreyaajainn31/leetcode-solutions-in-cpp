@@ -34,4 +34,4 @@ APRIL LEETCODE CHALLENGE
 7. [Day 15 - Trim a binary search tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
 8. [Day 16 - Convert BST to greater tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 9. [Day 17 - Increasing order search tree](https://leetcode.com/problems/increasing-order-search-tree/)
-10.[Day 18 - kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+10. [Day 18 - kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
